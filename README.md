@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 Full Stack Engineer with **5+ years of experience** building robust, scalable, and automated technology solutions. Self-taught, proactive, and deeply results-oriented — I take complex challenges from whiteboard to production.
 
