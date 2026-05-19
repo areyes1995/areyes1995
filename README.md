@@ -84,21 +84,29 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=areyes1995&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=e2e8f0&ring_color=6366f1" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=areyes1995&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyes1995&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyes1995&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" />
 
 </div>
 
+---
+
+## 🔥 Contribution Streak
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=areyes1995&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" />
+<img src="https://streak-stats.demolab.com?user=areyes1995&theme=default&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=000000&sideLabels=000000" />
 
 </div>
 
+---
+
+## 🏆 GitHub Achievements
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=areyes1995&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=areyes1995&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7" />
 
 </div>
 
