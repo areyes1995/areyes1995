@@ -102,11 +102,7 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/areyes-95?cardType=level&fontFamily=&preferLogin=false"/>
-<div/>
-  
+## 🏆 GitHub Trophies  
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=areyes1995&theme=flat&no-frame=true&column=7" />
 </div>
@@ -133,6 +129,10 @@ If any of my work, repos, or automations have saved you time or inspired somethi
 
 ---
 
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/areyes-95?cardType=level&fontFamily=&preferLogin=false"/>
+<div/>
+  
 <div align="center">
 
 *Thanks for visiting — let's build something great.* 🚀
