@@ -88,7 +88,7 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 </div>
 
 <div align="center">
-  <b>Secundary Account: areyes-95</b><br>
+  <b>Secundary Account: <a href="https://github.com/areyes-95">areyes-95</a></b><br>
   <img src="https://streak-stats.demolab.com/?user=areyes-95&theme=transparent&hide_border=true" />
 </div>
 
