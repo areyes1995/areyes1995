@@ -84,29 +84,29 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=areyes1995&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyes1995&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=areyes1995&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyes1995&layout=compact&count_private=true&theme=default&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=areyes1995&theme=default&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=000000&sideLabels=000000" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=areyes1995&theme=default&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=areyes1995&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=areyes1995&theme=flat&no-frame=true&column=7" />
 
 </div>
 
