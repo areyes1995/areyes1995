@@ -1,113 +1,123 @@
-<h1 align="center">Hi, Happy to see you.</h1>
-<h3 align="center">Full Stack Developer | Automation & Enterprise Systems</h3>
+<div align="center">
 
-<p align="center">
-  Passionate about scalable systems, backend architecture, automation workflows, AI-driven solutions, and modern web technologies.
+# Hey, I'm Abiezer Reyes 👋
+### Full Stack Developer · Enterprise Systems · Automation & Integrations
+
+<p>
+  <em>"Hard work. Big dreams. Scalable code."</em>
 </p>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiezer-reyes-8a8236220)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiezer.reyes95@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=areyes1995&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/areyes1995)
 
-> "Hard Work Big Dreams, I Love it."
-
-Full Stack Engineer with over 4 years of experience developing robust, automated, and scalable technology solutions. Passionate about technology, continuous learning, automation, and teamwork. Self-taught, proactive, and results-oriented, with the ability to take on complex challenges and lead projects from start to finish.
-
-Throughout my career, I’ve worked across both frontend and backend development, participating in the planning, development, deployment, and maintenance of enterprise systems and internal platforms. I also have experience optimizing workflows through automation, integrations, and engineering best practices.
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 💼 Full Stack Developer focused on enterprise systems, backend development, and scalable automation solutions.
-- ⚡ Experienced building internal platforms, workflow automations, reporting systems, and business integrations.
-- 🧠 Self-taught developer passionate about continuous learning, problem solving, and modern software architecture.
-- 🛠️ Working with Angular, Laravel/PHP, NestJS, Linux, WebSockets, MySQL, and enterprise-level integrations.
-- 🤖 Interested in automation, AI-driven workflows, backend engineering, Linux systems, virtualization, and high-performance application design.
-- ✉️ Contact me: abiezer.reyes95@gmail.com
----
+Full Stack Engineer with **4+ years of experience** building robust, scalable, and automated technology solutions. Self-taught, proactive, and deeply results-oriented — I take complex challenges from whiteboard to production.
 
-## ⚙️ Core Strengths
+I've architected and delivered full enterprise platforms, KPI automation systems, ERP integrations, and internal tooling used daily by hundreds of employees across departments. I care about clean architecture, developer experience, and shipping things that actually work.
 
-- Full Stack Development
-- Backend Architecture & Integrations
-- Process Automation & CI/CD
-- Enterprise Systems & Internal Tools
-- Project Leadership & Technical Problem Solving
-- Linux Environments & Virtualization
+> 🏆 **Hackathon Winner — 1st Place** · Built and shipped a complete solution under pressure, outperforming competing teams.
 
 ---
 
-## 🧰 Languages & Tools
+## 💼 What I've Built
 
-<p align="left">
-  <img height="35" src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,nodejs,nestjs,react,angular,mysql,mongodb,linux,docker,git,github,vscode" />
-</p>
+| Domain | What I Delivered |
+|---|---|
+| 🏢 **Enterprise Intranet Platform** | Full system for employee & supervisor management, roles, permissions, vacations, licenses, HR requests, marketing, accounting, and organizational culture modules |
+| ⚙️ **HR Automations** | KPI reporting, tenure tracking, punch/time entry submissions, HR requirement workflows — all automated end-to-end |
+| 🧩 **Odoo ERP (v17)** | Custom add-ons with business logic tailored to internal processes |
+| 🍽️ **Lunch Management Platform** | SaaS-style platform where employees place lunch orders and external food companies are contracted for delivery |
+| 🔄 **Data Migration** | Cross-system database-level data imports, transforming and migrating records between platforms |
+| 🌐 **Scalable APIs** | RESTful and business-logic-driven backends using Node.js, NestJS, Express, and Strapi with Docker |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo_v17-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=areyes1995&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyes1995&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=areyes1995&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=e2e8f0&ring_color=6366f1" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyes1995&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=areyes1995&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=areyes1995&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=7" />
+
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+## ☕ Buy Me a Coffee
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=areyes1995&theme=tokyonight&hide_border=true" />
-</p>
+If any of my work, repos, or automations have saved you time or inspired something — consider buying me a coffee. It keeps me building!
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=areyes1995&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
+<a href="https://www.buymeacoffee.com/areyes1995" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+</a>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Currently Working On
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abiezer-reyes-8a8236220" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="35" />
-  </a>
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=areyes1995&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+- 🏗️ Scalable enterprise backend systems & internal tooling
+- ⚙️ Automation of operational workflows (HR, KPIs, reporting)
+- 🧩 ERP customization and inter-system integrations
+- 🐧 Deep diving into Linux internals, Docker, and backend optimization
+- 🤖 Exploring AI-driven automation in real business contexts
 
 ---
 
-## ☕ Currently
+<div align="center">
 
-- 🚀 Building scalable software solutions
-- ⚙️ Working on automation and enterprise integrations
-- 🤖 Exploring AI-driven workflows and automation systems
-- 🧠 Learning more about systems & low-level architecture
-- 💡 Exploring Linux, virtualization, and backend optimization
+*Thanks for visiting — let's build something great.* 🚀
 
----
-
-## 💬 More About Me
-
-- 🤹 Networks 👉 [LinkedIn](https://www.linkedin.com/in/abiezer-reyes-8a8236220)
-- 💻 Collaborating on open source and personal projects
-- 📱 Building my personal brand
-- 📚 Reading and continuously learning
-- 💡 Creating and experimenting with new ideas & technologies
-
----
-
-<p align="center">
-  Thanks for visiting my profile 👨‍💻
-</p>
+</div>
