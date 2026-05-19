@@ -7,17 +7,9 @@
   <em>"Hard work. Big dreams. Scalable code."</em>
 </p>
 
-<a href="https://www.linkedin.com/in/abiezer-reyes-8a8236220" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:abiezer.reyes952@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/areyes1995" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=areyes1995&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiezer-reyes-8a8236220)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiezer.reyes95@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=areyes1995&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/areyes1995)
 
 </div>
 
@@ -25,7 +17,7 @@
 
 ## 🧠 About Me
 
-Full Stack Engineer with **5+ years of experience** building robust, scalable, and automated technology solutions. Self-taught, proactive, and deeply results-oriented — I take complex challenges from whiteboard to production.
+Full Stack Engineer with **4+ years of experience** building robust, scalable, and automated technology solutions. Self-taught, proactive, and deeply results-oriented — I take complex challenges from whiteboard to production.
 
 I've architected and delivered full enterprise platforms, KPI automation systems, ERP integrations, and internal tooling used daily by hundreds of employees across departments. I care about clean architecture, developer experience, and shipping things that actually work.
 
@@ -84,29 +76,21 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=areyes1995&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyes1995&layout=compact&count_private=true&theme=default&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=areyes1995&theme=default&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=areyes1995&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=e2e8f0&ring_color=6366f1" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyes1995&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" />
 
 </div>
 
----
+<div align="center">
 
-## 🏆 GitHub Trophies
+<img src="https://streak-stats.demolab.com?user=areyes1995&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" />
+
+</div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=areyes1995&theme=flat&no-frame=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=areyes1995&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=7" />
 
 </div>
 
@@ -116,7 +100,7 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 
 If any of my work, repos, or automations have saved you time or inspired something — consider buying me a coffee. It keeps me building!
 
-<a href="https://buymeacoffee.com/areyes95" target="_blank">
+<a href="https://www.buymeacoffee.com/areyes1995" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
 </a>
 
