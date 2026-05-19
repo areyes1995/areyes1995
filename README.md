@@ -7,9 +7,17 @@
   <em>"Hard work. Big dreams. Scalable code."</em>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiezer-reyes-8a8236220)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiezer.reyes95@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=areyes1995&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/areyes1995)
+<a href="https://www.linkedin.com/in/abiezer-reyes-8a8236220" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:abiezer.reyes952@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/areyes1995" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=areyes1995&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+</a>
 
 </div>
 
@@ -17,7 +25,7 @@
 
 ## 🧠 About Me
 
-Full Stack Engineer with **4+ years of experience** building robust, scalable, and automated technology solutions. Self-taught, proactive, and deeply results-oriented — I take complex challenges from whiteboard to production.
+Full Stack Engineer with **5+ years of experience** building robust, scalable, and automated technology solutions. Self-taught, proactive, and deeply results-oriented — I take complex challenges from whiteboard to production.
 
 I've architected and delivered full enterprise platforms, KPI automation systems, ERP integrations, and internal tooling used daily by hundreds of employees across departments. I care about clean architecture, developer experience, and shipping things that actually work.
 
@@ -100,7 +108,7 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 
 If any of my work, repos, or automations have saved you time or inspired something — consider buying me a coffee. It keeps me building!
 
-<a href="https://www.buymeacoffee.com/areyes1995" target="_blank">
+<a href="https://buymeacoffee.com/areyes95" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
 </a>
 
