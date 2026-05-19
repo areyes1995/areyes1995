@@ -83,12 +83,13 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 ## 🔥 Contribution Streak
 
 <div align="center">
+  <b>Personal Account</b><br>
+  <img src="https://streak-stats.demolab.com?user=areyes1995&theme=transparent&hide_border=true" />
+</div>
 
-<b>Personal Account</b><br>
-<img src="https://streak-stats.demolab.com?user=areyes1995&theme=transparent&hide_border=true" />
-<br>
-<b>Business Account: areyevoiceteam</b>
-<img src="https://streak-stats.demolab.com?user=areyevoiceteam&theme=transparent&hide_border=true" />
+<div align="center">
+  <b>My current job account: areyevoiceteam</b><br>
+  <img src="https://streak-stats.demolab.com?user=areyevoiceteam&theme=transparent&hide_border=true" />
 </div>
 
 ---
