@@ -84,19 +84,29 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=areyes1995&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=areyes1995&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyes1995&layout=compact&count_private=true&theme=default&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyes1995&layout=compact&count_private=true&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=areyes1995&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=areyes1995&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=areyes1995&theme=github-compact&hide_border=true" />
 
 </div>
 
