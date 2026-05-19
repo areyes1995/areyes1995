@@ -85,6 +85,7 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=areyes1995&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=areyes1995&limit=5&theme=default&combine_all_yearly_contributions=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyes1995&layout=compact&count_private=true&theme=default&hide_border=true" />
 
