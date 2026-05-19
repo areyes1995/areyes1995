@@ -93,13 +93,7 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 ## 📈 Contribution Graph
 
 <div align="center">
-
-Personal account:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=areyes1995&theme=github-compact&hide_border=true" />
-
-Business account areyevoiceteam:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=areyevoiceteam&theme=github-compact&hide_border=true" />
-
 </div>
 
 ---
@@ -107,12 +101,7 @@ Business account areyevoiceteam:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-Personal account: 
 <img src="https://github-profile-trophy.vercel.app/?username=areyes1995&theme=flat&no-frame=true&column=7" />
-
-Business Account: areyevoiceteam
-<img src="https://github-profile-trophy.vercel.app/?username=areyevoiceteam&theme=flat&no-frame=true&column=7" />
 </div>
 
 ---
