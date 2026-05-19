@@ -88,8 +88,8 @@ I've architected and delivered full enterprise platforms, KPI automation systems
 </div>
 
 <div align="center">
-  <b>My current job account: areyevoiceteam</b><br>
-  <img src="https://streak-stats.demolab.com?user=areyevoiceteam&theme=transparent&hide_border=true" />
+  <b>Secundary Account: areyes-95</b><br>
+  <img src="https://streak-stats.demolab.com/?user=areyes-95&theme=transparent&hide_border=true" />
 </div>
 
 ---
