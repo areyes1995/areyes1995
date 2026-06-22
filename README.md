@@ -119,16 +119,6 @@ If any of my work, repos, or automations have saved you time or inspired somethi
 
 ---
 
-## 🚀 Currently Working On
-
-- 🏗️ Scalable enterprise backend systems & internal tooling
-- ⚙️ Automation of operational workflows (HR, KPIs, reporting)
-- 🧩 ERP customization and inter-system integrations
-- 🐧 Deep diving into Linux internals, Docker, and backend optimization
-- 🤖 Exploring AI-driven automation in real business contexts
-
----
-
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/areyes-95?cardType=level&fontFamily=&preferLogin=false"/>
 <div/>
