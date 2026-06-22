@@ -23,15 +23,16 @@
 
 ---
 
-## About Me
-
-Full Stack Engineer with **5+ years of experience** building robust, scalable, and automated technology solutions. Self-taught, proactive, and deeply results-oriented — I take complex challenges from whiteboard to production.
-
-I've architected and delivered full enterprise platforms, KPI automation systems, ERP integrations, and internal tooling used daily by hundreds of employees across departments. I care about clean architecture, developer experience, and shipping things that actually work.
-
-> 🏆 **Hackathon Winner — 1st Place** · Built and shipped a complete solution under pressure, outperforming competing teams.
-
----
+<div>
+  <h3 align="center"><code>## About Me</code></h3>
+  <p align="center">
+  💻 Full-Stack Developer **5+ years of experience** building robust, scalable, and automated technology solutions. Self-taught, proactive, and deeply results-oriented<br>
+  🤖 Passionate about AI & Machine Learning<br>
+  🌏 Based in Dominican Republic | Open to Work
+  > 🏆 **Hackathon Winner — 1st Place** · Built and shipped a complete solution under pressure, outperforming competing teams.
+  > KPI automation systems, ERP integrations, and internal tooling used daily by hundreds of employees across departments.
+  </p>
+</div>
 
 ## 💼 What I've Built
 
