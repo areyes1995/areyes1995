@@ -1,19 +1,10 @@
 <div align="center">
 
 # Hey, I'm Abiezer Reyes 👋
+### Full Stack Developer · Enterprise Systems · Automation & Integrations
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;NestJS+%7C+PHP+%7C+TypeScript;Texas+Hold'em+Developer;AI+%26+Local+LLM+Enthusiast;Building+Scalable+Applications&center=true&width=600&height=50">
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-<p>
-  <em>"Hard work. Big dreams. Scalable code."</em>
 </p>
 
 <a href="https://www.linkedin.com/in/abiezer-reyes-8a8236220" target="_blank">
