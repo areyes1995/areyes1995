@@ -26,7 +26,7 @@
 <p align="">
 💻 Full-Stack Developer **5+ years of experience** 
 🤖 Passionate about AI & Machine Learning<br>
-🌏 Based in Dominican Republic | Open to Work
+🌏 Based in Dominican Republic | Open to Work<br>
 > KPI automation systems, ERP integrations, and internal tooling used daily by hundreds of employees across departments.
 </p>
 
