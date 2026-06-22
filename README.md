@@ -23,16 +23,13 @@
 
 ---
 
-<div>
-  <h3 align=""><code>## About Me</code></h3>
-  <p align="">
-  💻 Full-Stack Developer **5+ years of experience** building robust, scalable, and automated technology solutions. Self-taught, proactive, and deeply results-oriented<br>
-  🤖 Passionate about AI & Machine Learning<br>
-  🌏 Based in Dominican Republic | Open to Work
-  > 🏆 **Hackathon Winner — 1st Place** · Built and shipped a complete solution under pressure, outperforming competing teams.
-  > KPI automation systems, ERP integrations, and internal tooling used daily by hundreds of employees across departments.
-  </p>
-</div>
+<p align="">
+💻 Full-Stack Developer **5+ years of experience** building robust, scalable, and automated technology solutions. Self-taught, proactive, and deeply results-oriented<br>
+🤖 Passionate about AI & Machine Learning<br>
+🌏 Based in Dominican Republic | Open to Work
+> 🏆 **Hackathon Winner — 1st Place** · Built and shipped a complete solution under pressure, outperforming competing teams.
+> KPI automation systems, ERP integrations, and internal tooling used daily by hundreds of employees across departments.
+</p>
 
 ## 💼 What I've Built
 
