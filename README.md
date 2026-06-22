@@ -1,14 +1,13 @@
 <div align="center">
 
 # Hey, I'm Abiezer Reyes 👋
-### Full Stack Developer · Enterprise Systems · Automation & Integrations
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zubair-ahmed-official/zubair-ahmed-official/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;NestJS+%7C+PHP+%7C+TypeScript;Texas+Hold'em+Developer;AI+%26+Local+LLM+Enthusiast;Building+Scalable+Applications&center=true&width=600&height=50">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zubair-ahmed-official/zubair-ahmed-official/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <a href="https://www.linkedin.com/in/abiezer-reyes-8a8236220" target="_blank">
