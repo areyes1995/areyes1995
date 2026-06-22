@@ -24,8 +24,8 @@
 ---
 
 <div>
-  <h3 align="center"><code>## About Me</code></h3>
-  <p align="center">
+  <h3 align=""><code>## About Me</code></h3>
+  <p align="">
   💻 Full-Stack Developer **5+ years of experience** building robust, scalable, and automated technology solutions. Self-taught, proactive, and deeply results-oriented<br>
   🤖 Passionate about AI & Machine Learning<br>
   🌏 Based in Dominican Republic | Open to Work
