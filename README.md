@@ -1,4 +1,3 @@
-```html
 <div style="border: 1px solid #30363d; padding: 20px; border-radius: 12px;">
 
 <h2 align="center">Abiezer Reyes</h2>
@@ -161,4 +160,3 @@
 </p>
 
 </div>
-```
